@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://leonif.github.io/if24-site/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>1.0</priority>
-  </url>
+  <url><loc>https://leonif.github.io/if24-site/</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://leonif.github.io/if24-site/free-alternative-to-zero.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://leonif.github.io/if24-site/free-alternative-to-fastic.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://leonif.github.io/if24-site/free-alternative-to-bodyfast.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
 </urlset>
