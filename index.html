@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>IF24 — Intermittent Fasting Timer</title>
+<meta name="description" content="IF24 is a free iOS intermittent fasting timer that tracks your fasting window and shows live metabolic phases — fat burning, ketosis and autophagy — in real time.">
+<link rel="canonical" href="https://leonif.github.io/if24-site/">
+<meta name="robots" content="index, follow">
+<meta property="og:type" content="website">
+<meta property="og:title" content="IF24 — Intermittent Fasting Timer">
+<meta property="og:description" content="A free iOS timer that tracks your fasting window and shows live metabolic phases in real time.">
+<meta property="og:url" content="https://leonif.github.io/if24-site/">
+<meta name="twitter:card" content="summary">
+<style>
+  :root{
+    --blue:#2b7cff; --blue-dark:#1b5fd9; --ink:#0e1726; --muted:#5b6b82; --bg:#f5f8ff; --card:#ffffff;
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;color:var(--ink);background:var(--bg);line-height:1.5;-webkit-font-smoothing:antialiased}
+  .wrap{max-width:980px;margin:0 auto;padding:0 24px}
+  a{color:inherit}
+
+  header.hero{
+    background:radial-gradient(120% 120% at 50% 0%, #eaf2ff 0%, var(--bg) 60%);
+    padding:72px 0 56px;text-align:center;
+  }
+  .icon{width:104px;height:104px;border-radius:24px;box-shadow:0 12px 30px rgba(43,124,255,.28);
+    background:linear-gradient(160deg,#bcd6ff,#2b7cff);display:flex;align-items:center;justify-content:center;
+    margin:0 auto 22px;color:#fff;font-weight:800;font-size:38px;letter-spacing:-1px}
+  h1{font-size:clamp(30px,5vw,46px);letter-spacing:-1px;margin-bottom:10px}
+  .sub{font-size:clamp(17px,2.4vw,21px);color:var(--muted);max-width:600px;margin:0 auto 28px}
+  .badge{display:inline-flex;align-items:center;gap:10px;background:#000;color:#fff;text-decoration:none;
+    padding:13px 22px;border-radius:13px;font-weight:600;font-size:16px;transition:transform .15s ease}
+  .badge:hover{transform:translateY(-2px)}
+  .badge small{display:block;font-size:11px;font-weight:500;opacity:.8;line-height:1}
+  .badge b{font-size:18px;font-weight:700;line-height:1.1}
+
+  section{padding:56px 0}
+  h2{font-size:clamp(22px,3.4vw,30px);text-align:center;margin-bottom:8px;letter-spacing:-.5px}
+  .lead{text-align:center;color:var(--muted);max-width:620px;margin:0 auto 40px}
+
+  .features{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:18px}
+  .feat{background:var(--card);border:1px solid #e7eefc;border-radius:18px;padding:26px 22px}
+  .feat .dot{width:42px;height:42px;border-radius:12px;background:#eaf2ff;color:var(--blue);
+    display:flex;align-items:center;justify-content:center;font-size:22px;margin-bottom:14px}
+  .feat h3{font-size:18px;margin-bottom:6px}
+  .feat p{color:var(--muted);font-size:15px}
+
+  .shots{background:#0e1726;color:#fff}
+  .shots .lead{color:#9fb2cc}
+  .shotrow{display:flex;gap:18px;overflow-x:auto;padding:6px 2px 4px;scroll-snap-type:x mandatory}
+  .shot{flex:0 0 220px;height:460px;border-radius:26px;background:linear-gradient(160deg,#1d2a40,#26405f);
+    border:1px solid #2c3f5c;scroll-snap-align:center;display:flex;align-items:center;justify-content:center;
+    color:#6f86a6;font-size:13px;text-align:center;padding:18px}
+
+  .cta{text-align:center}
+  footer{padding:40px 0;border-top:1px solid #e7eefc;text-align:center;color:var(--muted);font-size:14px}
+  footer a{color:var(--blue);text-decoration:none}
+  footer .links{margin-bottom:10px;display:flex;gap:22px;justify-content:center;flex-wrap:wrap}
+</style>
+</head>
+<body>
+
+<header class="hero">
+  <div class="wrap">
+    <div class="icon">24</div>
+    <h1>Intermittent Fasting: IF24</h1>
+    <p class="sub">A free iOS timer that tracks your fasting window and shows live metabolic phases — fat burning, ketosis and autophagy — in real time.</p>
+    <a class="badge" href="https://apps.apple.com/us/app/intermittent-fasting-if24/id6738324344">
+      <span style="font-size:22px"></span>
+      <span><small>Download on the</small><b>App Store</b></span>
+    </a>
+  </div>
+</header>
+
+<section>
+  <div class="wrap">
+    <h2>Built to be simple</h2>
+    <p class="lead">No account, no clutter. Start a fast, watch your body move through its phases, and build a streak.</p>
+    <div class="features">
+      <div class="feat"><div class="dot">⏱️</div><h3>Fasting window timer</h3><p>One tap to start. Clear countdown of your eating and fasting windows for 16:8 and other schedules.</p></div>
+      <div class="feat"><div class="dot">🔥</div><h3>Live metabolic phases</h3><p>See in real time when you enter fat burning, ketosis and autophagy as your fast progresses.</p></div>
+      <div class="feat"><div class="dot">📅</div><h3>Popular schedules</h3><p>16:8, 18:6, 20:4 and custom plans — pick what fits your day.</p></div>
+      <div class="feat"><div class="dot">🔒</div><h3>Privacy-first</h3><p>No sign-up required. Just open the app and start fasting.</p></div>
+    </div>
+  </div>
+</section>
+
+<section class="shots">
+  <div class="wrap">
+    <h2>See it in action</h2>
+    <p class="lead">Real screenshots from the App Store.</p>
+    <div class="shotrow">
+      <div class="shot">Screenshot 1<br>(to be added)</div>
+      <div class="shot">Screenshot 2<br>(to be added)</div>
+      <div class="shot">Screenshot 3<br>(to be added)</div>
+      <div class="shot">Screenshot 4<br>(to be added)</div>
+    </div>
+  </div>
+</section>
+
+<section class="cta">
+  <div class="wrap">
+    <h2>Start your first fast today</h2>
+    <p class="lead">Free on the App Store.</p>
+    <a class="badge" href="https://apps.apple.com/us/app/intermittent-fasting-if24/id6738324344">
+      <span><small>Download on the</small><b>App Store</b></span>
+    </a>
+  </div>
+</section>
+
+<footer>
+  <div class="wrap">
+    <div class="links">
+      <a href="mailto:leonif1@gmail.com">Support</a>
+      <a href="https://band-jaborosa-cee.notion.site/EN-IF-App-Support-Page-21074ba10b3b812f9b12ca4852c33587">Privacy &amp; Support</a>
+      <a href="https://apps.apple.com/us/app/intermittent-fasting-if24/id6738324344">App Store</a>
+    </div>
+    © 2026 IF24. Made by an independent developer.
+  </div>
+</footer>
+
+</body>
+</html>
