@@ -10,8 +10,26 @@
   <url><loc>https://leonif.github.io/if24-site/ko/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
   <url><loc>https://leonif.github.io/if24-site/zh/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
   <url><loc>https://leonif.github.io/if24-site/ar/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://leonif.github.io/if24-site/privacy.html</loc><changefreq>monthly</changefreq><priority>0.5</priority></url>
-  <url><loc>https://leonif.github.io/if24-site/terms.html</loc><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://leonif.github.io/if24-site/privacy.html</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://leonif.github.io/if24-site/terms.html</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://leonif.github.io/if24-site/uk/privacy.html</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://leonif.github.io/if24-site/uk/terms.html</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://leonif.github.io/if24-site/de/privacy.html</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://leonif.github.io/if24-site/de/terms.html</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://leonif.github.io/if24-site/es/privacy.html</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://leonif.github.io/if24-site/es/terms.html</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://leonif.github.io/if24-site/fr/privacy.html</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://leonif.github.io/if24-site/fr/terms.html</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://leonif.github.io/if24-site/pl/privacy.html</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://leonif.github.io/if24-site/pl/terms.html</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://leonif.github.io/if24-site/ja/privacy.html</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://leonif.github.io/if24-site/ja/terms.html</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://leonif.github.io/if24-site/ko/privacy.html</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://leonif.github.io/if24-site/ko/terms.html</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://leonif.github.io/if24-site/zh/privacy.html</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://leonif.github.io/if24-site/zh/terms.html</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://leonif.github.io/if24-site/ar/privacy.html</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://leonif.github.io/if24-site/ar/terms.html</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
   <url><loc>https://leonif.github.io/if24-site/free-alternative-to-zero.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://leonif.github.io/if24-site/free-alternative-to-fastic.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://leonif.github.io/if24-site/free-alternative-to-bodyfast.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
